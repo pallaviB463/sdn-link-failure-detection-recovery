@@ -1,4 +1,4 @@
-# Project 14: Link Failure Detection and Recovery
+# Project : Link Failure Detection and Recovery
 
 **Course**: Computer Networks — UE24CS252B  
 **Controller**: POX (OpenFlow 1.0)  
